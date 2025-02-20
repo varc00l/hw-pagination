@@ -1,0 +1,21 @@
+{
+  "name": "pixabay-webpage",
+  "version": "1.0.0",
+  "description": "A web page to view images from Pixabay's Editor's Choice section with pagination.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "keywords": [
+    "pixabay",
+    "images",
+    "web",
+    "pagination"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
